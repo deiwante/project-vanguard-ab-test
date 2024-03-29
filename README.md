@@ -4,7 +4,7 @@
 # Metadata:
 
 
-- client_id:** Unique ID for each client.
+- client_id: Unique ID for each client.
 - variation: Indicates if a client was part of the experiment.
 - visitor_id: Unique ID for each client-device combination.
 - visit_id: Unique ID for each web visit/session.
